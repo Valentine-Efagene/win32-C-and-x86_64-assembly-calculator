@@ -1,0 +1,3 @@
+﻿  Assembling operations.asm...
+475_win32_Desktop_ASM.obj : error LNK2019: unresolved external symbol _addInts referenced in function "void __cdecl add(struct HWND__ *,struct HWND__ *,struct HWND__ *,struct HWND__ *)" (?add@@YAXPAUHWND__@@000@Z)
+F:\code\repos\visual-studio\C++\ASM\475_win32_Desktop_ASM\Debug\475_win32_Desktop_ASM.exe : fatal error LNK1120: 1 unresolved externals
